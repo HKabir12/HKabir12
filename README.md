@@ -1,13 +1,13 @@
 # hkabir_12
-<p align="center">
-<img src="https://i.ibb.co.com/WN3ZsxZ1/banner-git.jpg" alt="Banner"  />
-</p>
-
 <h1 align="center">
   <a href="https://github.com/hkabir_12">
     <span>👋 Hi, I'm Md Humaon Kabir</span>
   </a>
 </h1>
+<p align="center">
+<img src="https://i.ibb.co.com/WN3ZsxZ1/banner-git.jpg" alt="Banner"  />
+</p>
+
 
 <h3 align="center">🚀 Student & Frontend Developer at IIT Jahangirnagar University, Dhaka, Bangladesh</h3>
 
