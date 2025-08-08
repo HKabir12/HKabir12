@@ -43,7 +43,12 @@ I enjoy turning complex problems into simple, beautiful, and intuitive solutions
   &nbsp;
   <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" height="30" width="110" />
 </p>
-
+<p align="center" dir="auto">
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://i.ibb.co.com/MxBSKhwS/HTML.png"><img height="150" src="https://i.ibb.co.com/MxBSKhwS/HTML.png" style="max-width: 100%; height: auto; max-height: 150px;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/CSS.png"><img height="150" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/CSS.png" style="max-width: 100%; height: auto; max-height: 150px;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/Bootstrap.png"><img height="150" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/Bootstrap.png" style="max-width: 100%; height: auto; max-height: 150px;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/Tailwind.png"><img height="150" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/Tailwind.png" style="max-width: 100%; height: auto; max-height: 150px;"></a>
+</p>
 
 
 #### 🧑‍💻 Backend
