@@ -67,7 +67,7 @@ I enjoy turning complex problems into simple, beautiful, and intuitive solutions
   <img src="https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white" height="30" width="120" />
 </p>
 
-<h1 align="center"> ⚙️ Tools & Platforms
+<h1 align="center"> social media and professional links
 </h1>
 <p align="center">
   <a href="your-linkedin-url" target="_blank">
