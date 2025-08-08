@@ -1,7 +1,21 @@
 # hkabir_12
-<img src="https://i.ibb.co.com/7xjtSZxj/kabir.jpg" alt="Banner" />
-## 👋 Hi, I'm Md Humaon kabir 
-### 🚀 Hi, I'm Humaon Kabir – Student and Frontend  Developer of IIT Jahangirnagar University, Dhaka, Bangladesh
+<p align="center">
+  <img src="https://i.ibb.co.com/7xjtSZxj/kabir.jpg" alt="Banner" width="100%" />
+</p>
+
+<h1 align="center">
+  <a href="https://github.com/hkabir_12">
+    <span>👋 Hi, I'm Md Humaon Kabir</span>
+  </a>
+</h1>
+
+<h3 align="center">🚀 Student & Frontend Developer at IIT Jahangirnagar University, Dhaka, Bangladesh</h3>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=hkabir_12&color=blueviolet" alt="" />
+  <img src="https://img.shields.io/github/followers/hkabir_12?style=social" alt="" />
+  <br />
+</div>
 
 ### 📌 About Me
 I’m a passionate developer based in Dhaka Bangladesh, with a strong interest in building modern web applications.  
@@ -31,6 +45,40 @@ I enjoy turning complex problems into simple, beautiful, and intuitive solutions
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](your-github-url)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](your-twitter-url)
 
+
+### 🛠️ Skills
+
+<div align="center">
+  <a href="https://skillicons.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=react,tailwind,nextjs,nodejs,express,mongodb,firebase,git" alt="My Skills" />
+  </a>
+</div>
+
+---
+
+### 🔗 Let's Connect
+
+<p align="center">
+  <a href="your-linkedin-url" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/hkabir_12" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="your-twitter-url" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+</p>
+
+---
+
 ### 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
+
+<p align="center">
+  <a href="https://github.com/hkabir_12">
+    <img src="https://github-readme-stats.vercel.app/api?username=hkabir_12&show_icons=true&theme=vision-friendly-light&hide_border=true&count_private=true" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/hkabir_12">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hkabir_12&theme=vision-friendly-light&hide_border=true" alt="GitHub Streak" />
+  </a>
+</p>
