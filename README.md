@@ -29,7 +29,7 @@ I enjoy turning complex problems into simple, beautiful, and intuitive solutions
 
 #### 👨‍💻 Frontend
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" height="30" width="110" />
+  <img src="https://i.ibb.co.com/MxBSKhwS/HTML.png" height="30" width="110" />
   &nbsp;
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" height="30" width="110" />
   &nbsp;
