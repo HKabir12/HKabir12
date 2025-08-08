@@ -16,7 +16,8 @@
   <br />
 </div>
 
-### 📌 About Me
+<h1 align="center"> 📌 About Me
+</h1>
 I’m a passionate developer based in Dhaka Bangladesh, with a strong interest in building modern web applications.  
 I enjoy turning complex problems into simple, beautiful, and intuitive solutions.
 
@@ -27,7 +28,8 @@ I enjoy turning complex problems into simple, beautiful, and intuitive solutions
 
 ### 🛠️ Skills
 
-#### 👨‍💻 Frontend
+<h1 align="center">👨‍💻 Frontend
+</h1>
 
 <p align="center" dir="auto">
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://i.ibb.co.com/MxBSKhwS/HTML.png"><img height="150" src="https://i.ibb.co.com/MxBSKhwS/HTML.png" style="max-width: 100%; height: auto; max-height: 150px;"></a>
@@ -41,8 +43,9 @@ I enjoy turning complex problems into simple, beautiful, and intuitive solutions
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://i.ibb.co.com/qLVQ01tL/nextjs.jpg"><img height="150" src="https://i.ibb.co.com/qLVQ01tL/nextjs.jpg" style="max-width: 100%; height: auto; max-height: 150px;"></a>
 </p>
 
-
-#### 🧑‍💻 Backend
+<h1 align="center"> Backendnd
+</h1>
+#### 🧑‍💻 
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" height="30" width="120" />
   &nbsp;
@@ -52,7 +55,8 @@ I enjoy turning complex problems into simple, beautiful, and intuitive solutions
 </p>
 
 
-#### ⚙️ Tools & Platforms
+<h1 align="center"> ⚙️ Tools & Platforms
+</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" height="30" width="120" />
   &nbsp;
@@ -63,7 +67,8 @@ I enjoy turning complex problems into simple, beautiful, and intuitive solutions
   <img src="https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white" height="30" width="120" />
 </p>
 
-### 🔗 Social Links
+<h1 align="center"> ⚙️ Tools & Platforms
+</h1>
 <p align="center">
   <a href="your-linkedin-url" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -82,7 +87,8 @@ I enjoy turning complex problems into simple, beautiful, and intuitive solutions
 
 ---
 
-### 📊 GitHub Stats
+<h1 align="center"> 📊 GitHub Stats
+</h1>
 
 <p align="center">
   <a href="https://github.com/hkabir_12">
