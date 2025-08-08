@@ -57,13 +57,9 @@ I enjoy turning complex problems into simple, beautiful, and intuitive solutions
 <h1 align="center"> ⚙️ Tools & Platforms
 </h1>
 <p align="center">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" height="30" width="120" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" height="30" width="80" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" height="30" width="100" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white" height="30" width="120" />
+ <a target="_blank" rel="noopener noreferrer nofollow" href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdd25hyNQOMs4Xx1Cv_A_oaT0zagfSWlXMBA&s"><img height="150" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdd25hyNQOMs4Xx1Cv_A_oaT0zagfSWlXMBA&s" style="max-width: 100%; height: auto; max-height: 150px;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://ourcodeworld.com/public-media/articles/articleocw-57e57b89889ad.png"><img height="150" src="https://ourcodeworld.com/public-media/articles/articleocw-57e57b89889ad.png" style="max-width: 100%; height: auto; max-height: 150px;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.mongodb.com/docs/assets/meta_generic.png"><img height="150" src="https://www.mongodb.com/docs/assets/meta_generic.png" style="max-width: 100%; height: auto; max-height: 150px;"></a>
 </p>
 
 <h1 align="center"> social media and professional links
