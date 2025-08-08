@@ -29,12 +29,7 @@ I enjoy turning complex problems into simple, beautiful, and intuitive solutions
 
 #### 👨‍💻 Frontend
 <p align="center">
-  <img src="https://i.ibb.co.com/MxBSKhwS/HTML.png" height="30" width="110" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" height="30" width="110" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white" height="30" width="140" />
-  &nbsp;
+ 
   <img src="https://img.shields.io/badge/DaisyUI-4C1D95?logo=daisyui&logoColor=white" height="30" width="120" />
   &nbsp;
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" height="30" width="130" />
@@ -46,8 +41,8 @@ I enjoy turning complex problems into simple, beautiful, and intuitive solutions
 <p align="center" dir="auto">
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://i.ibb.co.com/MxBSKhwS/HTML.png"><img height="150" src="https://i.ibb.co.com/MxBSKhwS/HTML.png" style="max-width: 100%; height: auto; max-height: 150px;"></a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://i.ibb.co.com/zTB60Dkz/CSS.png"><img height="150" src="https://i.ibb.co.com/zTB60Dkz/CSS.png" style="max-width: 100%; height: auto; max-height: 150px;"></a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/Bootstrap.png"><img height="150" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/Bootstrap.png" style="max-width: 100%; height: auto; max-height: 150px;"></a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/Tailwind.png"><img height="150" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/Tailwind.png" style="max-width: 100%; height: auto; max-height: 150px;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://i.ibb.co.com/1J8XvZYt/Bootstrap.png"><img height="150" src="https://i.ibb.co.com/1J8XvZYt/Bootstrap.png" style="max-width: 100%; height: auto; max-height: 150px;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://i.ibb.co.com/v6QztKM9/Tailwind.png"><img height="150" src="https://i.ibb.co.com/v6QztKM9/Tailwind.png" style="max-width: 100%; height: auto; max-height: 150px;"></a>
 </p>
 
 
