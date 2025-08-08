@@ -1,6 +1,6 @@
 # hkabir_12
 <p align="center">
-  <img src="https://i.ibb.co.com/7xjtSZxj/kabir.jpg" alt="Banner" width="100%" />
+<img src="https://i.ibb.co.com/7xjtSZxj/kabir.jpg" alt="Banner" width="800" height="400" />
 </p>
 
 <h1 align="center">
