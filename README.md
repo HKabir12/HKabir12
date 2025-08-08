@@ -45,7 +45,7 @@ I enjoy turning complex problems into simple, beautiful, and intuitive solutions
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://i.ibb.co.com/v6QztKM9/Tailwind.png"><img height="150" src="https://i.ibb.co.com/v6QztKM9/Tailwind.png" style="max-width: 100%; height: auto; max-height: 150px;"></a>
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://i.ibb.co.com/JR1b1GVf/daisyui.png"><img height="150" src="https://i.ibb.co.com/JR1b1GVf/daisyui.png" style="max-width: 100%; height: auto; max-height: 150px;"></a>
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://i.ibb.co.com/zhfKkgQf/Java-Script.png"><img height="150" src="https://i.ibb.co.com/zhfKkgQf/Java-Script.png" style="max-width: 100%; height: auto; max-height: 150px;"></a>
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://i.ibb.co.com/v6QztKM9/Tailwind.png"><img height="150" src="https://i.ibb.co.com/v6QztKM9/Tailwind.png" style="max-width: 100%; height: auto; max-height: 150px;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://i.ibb.co.com/B5qGPjkv/Firebase.png"><img height="150" src="https://i.ibb.co.com/B5qGPjkv/Firebase.png" style="max-width: 100%; height: auto; max-height: 150px;"></a>
 </p>
 
 
