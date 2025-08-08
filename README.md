@@ -65,15 +65,9 @@ I enjoy turning complex problems into simple, beautiful, and intuitive solutions
 <h1 align="center"> social media and professional links
 </h1>
 <p align="center">
-  <a href="your-linkedin-url" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/hkabir_12" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="your-twitter-url" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
+   <a target="_blank" rel="noopener noreferrer nofollow" href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIT0s-PlMZ63kkY7qnn4ymJzo63LDKmXI1fQ&s"><img height="150" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIT0s-PlMZ63kkY7qnn4ymJzo63LDKmXI1fQ&s" style="max-width: 100%; height: auto; max-height: 150px;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://media.geeksforgeeks.org/wp-content/uploads/20230801115641/How-to-Use-GitHub.png"><img height="150" src="https://media.geeksforgeeks.org/wp-content/uploads/20230801115641/How-to-Use-GitHub.png" style="max-width: 100%; height: auto; max-height: 150px;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://akm-img-a-in.tosshub.com/indiatoday/images/story/202307/twitter-x_0-sixteen_nine.jpg?VersionId=oz9saFzaCFimfp.4ppl67uYj9yVzFW0K"><img height="150" src="https://akm-img-a-in.tosshub.com/indiatoday/images/story/202307/twitter-x_0-sixteen_nine.jpg?VersionId=oz9saFzaCFimfp.4ppl67uYj9yVzFW0K" style="max-width: 100%; height: auto; max-height: 150px;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkx8iyPwF-F4hkZlShlWzPe_SUC1CoFkaNGQ&s"><img height="150" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkx8iyPwF-F4hkZlShlWzPe_SUC1CoFkaNGQ&s" style="max-width: 100%; height: auto; max-height: 150px;">
 </p>
 ---
 
