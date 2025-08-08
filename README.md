@@ -28,16 +28,7 @@ I enjoy turning complex problems into simple, beautiful, and intuitive solutions
 ### 🛠️ Skills
 
 #### 👨‍💻 Frontend
-<p align="center">
- 
-  <img src="https://img.shields.io/badge/DaisyUI-4C1D95?logo=daisyui&logoColor=white" height="30" width="120" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" height="30" width="130" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white" height="30" width="100" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" height="30" width="110" />
-</p>
+
 <p align="center" dir="auto">
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://i.ibb.co.com/MxBSKhwS/HTML.png"><img height="150" src="https://i.ibb.co.com/MxBSKhwS/HTML.png" style="max-width: 100%; height: auto; max-height: 150px;"></a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://i.ibb.co.com/zTB60Dkz/CSS.png"><img height="150" src="https://i.ibb.co.com/zTB60Dkz/CSS.png" style="max-width: 100%; height: auto; max-height: 150px;"></a>
@@ -46,6 +37,8 @@ I enjoy turning complex problems into simple, beautiful, and intuitive solutions
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://i.ibb.co.com/JR1b1GVf/daisyui.png"><img height="150" src="https://i.ibb.co.com/JR1b1GVf/daisyui.png" style="max-width: 100%; height: auto; max-height: 150px;"></a>
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://i.ibb.co.com/zhfKkgQf/Java-Script.png"><img height="150" src="https://i.ibb.co.com/zhfKkgQf/Java-Script.png" style="max-width: 100%; height: auto; max-height: 150px;"></a>
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://i.ibb.co.com/B5qGPjkv/Firebase.png"><img height="150" src="https://i.ibb.co.com/B5qGPjkv/Firebase.png" style="max-width: 100%; height: auto; max-height: 150px;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://i.ibb.co.com/2303YLHh/React.png"><img height="150" src="https://i.ibb.co.com/2303YLHh/React.png" style="max-width: 100%; height: auto; max-height: 150px;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://i.ibb.co.com/qLVQ01tL/nextjs.jpg"><img height="150" src="https://i.ibb.co.com/qLVQ01tL/nextjs.jpg" style="max-width: 100%; height: auto; max-height: 150px;"></a>
 </p>
 
 
