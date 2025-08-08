@@ -1,6 +1,6 @@
 # hkabir_12
 <p align="center">
-<img src="https://www.canva.com/design/DAGvemhvbLU/1YNWycbt1c2GcwulA97gbw/view" alt="Banner"  />
+<img src="https://i.ibb.co.com/WN3ZsxZ1/banner-git.jpg" alt="Banner"  />
 </p>
 
 <h1 align="center">
