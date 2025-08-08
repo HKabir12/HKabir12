@@ -49,12 +49,8 @@ I enjoy turning complex problems into simple, beautiful, and intuitive solutions
 <p align="center">
    <a target="_blank" rel="noopener noreferrer nofollow" href="https://images.ctfassets.net/aq13lwl6616q/7cS8gBoWulxkWNWEm0FspJ/c7eb42dd82e27279307f8b9fc9b136fa/nodejs_cover_photo_smaller_size.png"><img height="150" src="https://images.ctfassets.net/aq13lwl6616q/7cS8gBoWulxkWNWEm0FspJ/c7eb42dd82e27279307f8b9fc9b136fa/nodejs_cover_photo_smaller_size.png" style="max-width: 100%; height: auto; max-height: 150px;"></a>
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://ourcodeworld.com/public-media/articles/articleocw-57e57b89889ad.png"><img height="150" src="https://ourcodeworld.com/public-media/articles/articleocw-57e57b89889ad.png" style="max-width: 100%; height: auto; max-height: 150px;"></a>
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://i.ibb.co.com/qLVQ01tL/nextjs.jpg"><img height="150" src="https://i.ibb.co.com/qLVQ01tL/nextjs.jpg" style="max-width: 100%; height: auto; max-height: 150px;"></a>
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" height="30" width="120" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" height="30" width="140" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" height="30" width="120" />
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.mongodb.com/docs/assets/meta_generic.png"><img height="150" src="https://www.mongodb.com/docs/assets/meta_generic.png" style="max-width: 100%; height: auto; max-height: 150px;"></a>
+ 
 </p>
 
 
