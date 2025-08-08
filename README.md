@@ -29,20 +29,21 @@ I enjoy turning complex problems into simple, beautiful, and intuitive solutions
 
 #### 👨‍💻 Frontend
 <p align="center">
-<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
-&nbsp;
-<img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
-&nbsp;
-<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white" />
-&nbsp;
-<img src="https://img.shields.io/badge/DaisyUI-4C1D95?logo=daisyui&logoColor=white" />
-&nbsp;
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
-&nbsp;
-<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white" />
-&nbsp;
-<img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" height="30" width="110" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" height="30" width="110" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white" height="30" width="140" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/DaisyUI-4C1D95?logo=daisyui&logoColor=white" height="30" width="120" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" height="30" width="130" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white" height="30" width="100" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" height="30" width="110" />
 </p>
+
 
 
 #### 🧑‍💻 Backend
