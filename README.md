@@ -45,7 +45,7 @@ I enjoy turning complex problems into simple, beautiful, and intuitive solutions
 
 <h1 align="center"> Backendnd
 </h1>
-#### 🧑‍💻 
+
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" height="30" width="120" />
   &nbsp;
